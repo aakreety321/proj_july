@@ -2,4 +2,4 @@
 This is first repo  of gihub workshop.
 
 ### Git & GitHub
-I am learning Github in detail today.
+I am learning Github in detail today.It is interesting and important.
